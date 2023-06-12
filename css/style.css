@@ -52,8 +52,7 @@ body.main-body {
 }
 .site_header {
 	font-size: 40px;
-	width: 400px;
-	margin: 0 auto;
+	
 }
 .site_header+ div {
 	margin-top: 20px;
