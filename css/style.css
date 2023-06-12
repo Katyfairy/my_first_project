@@ -48,17 +48,18 @@ table {
 
 body.main-body {
 	background: #f1f0a4;
-    margin: 0auto;
+
 }
 .site_header {
 	font-size: 40px;
-	margin: 0auto;
+	width: 400px;
+	margin: 0 auto;
 }
 .site_header+ div {
 	margin-top: 20px;
 }
  
-.site.top {
+.site_top {
  font-size: 28px;
  }
 .site_main {
